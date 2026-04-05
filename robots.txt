@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ohouse-referral-code-friend-invite.vercel.app/sitemap.xml
